@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/your-username/ai-chef.git
+   git clone https://github.com/aman179102/ai-chef.git
    cd ai-chef
    ```
 
